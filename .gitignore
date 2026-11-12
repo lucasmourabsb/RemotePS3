@@ -1,0 +1,13 @@
+.DS_Store
+**/.gradle/
+**/build/
+android/local.properties
+android/app/src/main/jniLibs/
+ffmpeg-7.1.2/
+__pycache__/
+*.rps3
+*.orp
+*.apk
+*.pkg
+*.p12
+*.jks
